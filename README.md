@@ -3,3 +3,6 @@ Repository for testing project configuration and features... nothing interesting
 
 Testing DCO:
 1- Check whether -s works for me
+2- It works for me
+
+UNsigned commit
